@@ -1,0 +1,22 @@
+{
+  "name": "jquery.jade.js",
+  "main": "jquery.jade.js",
+  "version": "0.1.2",
+  "homepage": "https://github.com/jmar777/jquery.jade.js",
+  "authors": [
+    "jmar777"
+  ],
+  "description": "Jade for jQuery is a lightweight jQuery plugin providing a friendly API for using the jade template engine.",
+  "keywords": [
+    "jade",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
